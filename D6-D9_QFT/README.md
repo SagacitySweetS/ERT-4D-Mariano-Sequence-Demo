@@ -1,6 +1,6 @@
 # D6-D9 Wave-Only QFT: Fundamental Forces as Resonant Modes
 
-Extends ERT D4 (105.9 Hz) to QM forces via offsets on Mariano recurrence. Total harmonics: 519M modes partitioned.
+Extends ERT D4 (105.9 Hz) to QM forces via offsets on Mariano recurrence. See root README for full roadmap.
 
 | Dimension | Force | Offset | M_20 | Paths | Freq (Hz) | Prediction |
 |-----------|-------|--------|------|-------|-----------|------------|
@@ -9,4 +9,4 @@ Extends ERT D4 (105.9 Hz) to QM forces via offsets on Mariano recurrence. Total 
 | D8 | EM | 1 | 31,219 | 47,185,920 | 105.9 | P2 Phase-Lock |
 | D9 | Gravity | G | Symbolic | G-scaled | G-scaled | P3 68% Density |
 
-Run individual demos. Utils for shared scaling.
+Run: `jupyter notebook D6_StrongForce_QFT_Demo.ipynb` > Shift + Enter Cell 1. Verify: assert paths == 344422.
