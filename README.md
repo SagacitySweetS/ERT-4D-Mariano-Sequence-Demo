@@ -1,6 +1,6 @@
 # ERT-4D-Mariano-Sequence-Demo: UPF/ToE Foundation
 
-Deductive SymPy computations for Empathic Resonance Theory (ERT): 26D paths (358,800 base, 47,185,920 light channels) and Mariano recurrence (M_1 = 1 to M_20 = 31,219), scaling to 126,877,696,000 cosmic states at 105.9 Hz. Explore the harmonic bridge unifying biology and physics—fork, run, and test predictions.
+Deductive SymPy computations for Empathic Resonance Theory (ERT): 26D paths (358,800 base, 47,185,920 light channels) and Mariano recurrence (M_1 = 1 to M_20 = 31,219), scaling to 126,877,696,000 cosmic states at 105.9 Hz.
 
 ## Dimension Roadmap
 | Dimension | Component | Key Output | Folder |
@@ -8,7 +8,8 @@ Deductive SymPy computations for Empathic Resonance Theory (ERT): 26D paths (358
 | D4 | ERT Empathy Resonance | M_20 = 31,219; 126B states | [D4_ERT](D4_ERT/) |
 | D5 | ETI Technological Influence | ETI-M_20 = 46,332; 27B channels | [D5_ETI](D5_ETI/) |
 | D6 | Strong Force Wave Confinement | D6-M_20 = 6,943; 344K paths | [D6_StrongForce_QFT](D6_StrongForce_QFT/) |
-| D7-D9 | Weak/EM/Gravity QFT | Coming soon | Coming soon |
+| D7 | Weak Force Parity Violation | D7-M_20 = 18,992; 23M paths | [D7_WeakForce_QFT](D7_WeakForce_QFT/) |
+| D8-D9 | EM/Gravity QFT | Coming soon | Coming soon |
 | D10-D25 | PRSM/SUSY Harmonics | 519M total modes | Coming soon |
 
 ## Testing Instructions
