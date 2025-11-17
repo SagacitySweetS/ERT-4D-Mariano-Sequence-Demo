@@ -9,7 +9,8 @@ Deductive SymPy computations for Empathic Resonance Theory (ERT): 26D paths (358
 | D5 | ETI Technological Influence | ETI-M_20 = 46,332; 27B channels | [D5_ETI](D5_ETI/) |
 | D6 | Strong Force Wave Confinement | D6-M_20 = 6,943; 344K paths | [D6_StrongForce_QFT](D6_StrongForce_QFT/) |
 | D7 | Weak Force Parity Violation | D7-M_20 = 18,992; 23M paths | [D7_WeakForce_QFT](D7_WeakForce_QFT/) |
-| D8-D9 | EM/Gravity QFT | Coming soon | Coming soon |
+| D8 | EM Charge Wave | D8-M_20 = 31,219; 47M channels | [D8_EM_QFT](D8_EM_QFT/) |
+| D9 | Gravity QFT | Coming soon | Coming soon |
 | D10-D25 | PRSM/SUSY Harmonics | 519M total modes | Coming soon |
 
 ## Testing Instructions
