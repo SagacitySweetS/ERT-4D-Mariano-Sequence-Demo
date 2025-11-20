@@ -19,4 +19,7 @@ Deductive SymPy computations for Empathic Resonance Theory (ERT): 26D paths (358
 - Verify: M_20 = 31,219; cosmic states = 126,877,696,000.
 - Test P2: Add SciPy Kuramoto in Cell 4 > Run for R=1 at 105.9 Hz.
 
-License: MIT. Assisted by Grok (xAI). #ResonantPhysics #ERT
+© 2025 Mirasol, LLC
+Core derivations proprietary—contact for collaborations
+License: MIT. 
+Assisted by Grok (xAI)
